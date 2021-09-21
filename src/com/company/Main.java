@@ -6,5 +6,6 @@ public class Main {
         System.out.println("ahoj svete");
         System.out.println("zelena je trava, zajda neda klik");
         System.out.println("dalsi zmena");
+        System.out.println("zajda ten klik pořád neudělal");
     }
 }
